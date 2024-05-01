@@ -1,6 +1,6 @@
 ## About Me
 
-I am a backend developer with a background in Mechanical Engineering. I enjoy working with Node.js, Express, flask and Python to build efficient software architectures. My focus is on developing high-performance solutions and pushing the boundaries of what's possible in technology.
+I am a backend developer with a background in Mechanical Engineering. I enjoy working with Node.js, Express, flask and Python to build efficient software architectures. My focus is on developing high-performance solutions and pushing the boundaries of what's possible in technology. An ALX Africa graduate
 
 ## Projects
 
@@ -11,6 +11,7 @@ Here are a few projects I've worked on:
     - Features user authentication, listing creation, and secure payment processing.
 
 - **[E-Commerce Website](https://github.com/OfficialEcho95/e-commerceAPI)**
+    - This was my portfolio project during my ALX program 
     - A platform for online shopping, built with MySQL and Express.
     - Includes catalog management, cart functionality, and secure online transactions.
 
