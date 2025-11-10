@@ -18,7 +18,7 @@ Here are a few projects I've worked on:
 ## Skills
 
 - **Programming Languages:**  
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
     ![Node.js]
 (https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
     ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white)
